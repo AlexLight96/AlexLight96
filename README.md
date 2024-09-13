@@ -18,6 +18,4 @@ This is my pet dragon!
 His name is Yami
 
 
-
-![](https://www.codedex.io/images/code-nights/baby-neutral-dinosaur.gif)
-
+![@alexlight96 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=alexlight96)
