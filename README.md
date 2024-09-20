@@ -8,6 +8,14 @@ AlexLight96/AlexLight96 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+
+
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@alexlight96/30-nites-of-code?pet=DHvVVO3NNzIWGQA8otOz)  
+
+
+
 This is my pet dragon!
 
 
@@ -18,4 +26,5 @@ This is my pet dragon!
 His name is Yami
 
 
-![@alexlight96 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=alexlight96)
+
+  ![@alexlight96 #30NitesOfCode](https://www.codedex.io/images/code-nights/baby-neutral-dinosaur.gif)
