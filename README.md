@@ -23,7 +23,8 @@ This is my pet dragon!
 
 
 
-His name is Yami
+👀 His name is Yami<br>
+🌱 He loves to eat
 
 
 
