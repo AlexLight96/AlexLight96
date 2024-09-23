@@ -27,4 +27,4 @@ His name is Yami
 
 
 
-  ![@alexlight96 #30NitesOfCode](https://www.codedex.io/images/code-nights/baby-neutral-dinosaur.gif)
+  ![@alexlight96 #30NitesOfCode](https://www.codedex.io/images/code-nights/evolved-eating-dinosaur.gif)
