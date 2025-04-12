@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexLight96
 - 👀 I love to play videogames, soulslike, rpg, action, shooters, retro. I also love listening to music like synthwave or kpop.
-- 🌱 I’m currently learning Ruby on Rails and Angular. Currently studying Software Engineering at Cenfotec University. 
+- 🌱 Software Engineering student at Cenfotec University. 
 - ⚡ Fun fact: I love playing Yugioh and to watch a lot of animes.
 
 <!---
